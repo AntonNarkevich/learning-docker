@@ -1,3 +1,6 @@
 node_modules/
 build/
 bin/
+data/
+Dockerfile.*
+dc.*.yml
