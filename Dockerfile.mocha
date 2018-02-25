@@ -1,0 +1,4 @@
+FROM base-image
+
+EXPOSE 9230
+ENTRYPOINT npm run debug-test
